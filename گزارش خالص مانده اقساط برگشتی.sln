@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "گزارش خالص مانده اقساط برگشتی", "Report Project8\گزارش خالص مانده اقساط برگشتی.rptproj", "{F7230D8A-BEFF-4516-AE4E-984A30BAC810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Debug|Default.ActiveCfg = Debug
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Debug|Default.Build.0 = Debug
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Debug|Default.Deploy.0 = Debug
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.DebugLocal|Default.Build.0 = DebugLocal
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Release|Default.ActiveCfg = Release
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Release|Default.Build.0 = Release
+		{F7230D8A-BEFF-4516-AE4E-984A30BAC810}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FF6376-426E-494C-9B53-73D294964335}
+	EndGlobalSection
+EndGlobal
